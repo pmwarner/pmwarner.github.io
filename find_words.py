@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import re, sys
-import cheat
 
 def main(pattern, bench, in_file="scrabble.txt", out_file="out.txt"):
 	# filter file
